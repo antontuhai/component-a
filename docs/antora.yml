@@ -1,3 +1,4 @@
 name: component-a
 title: Компонент-А
 version: 1.3
+start_page: data-model:test.adoc
