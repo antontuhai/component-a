@@ -1,1 +1,3 @@
 = Побудова аналітичних даних
+
+TIP: Content generated for the version 1.3 of this Component.
