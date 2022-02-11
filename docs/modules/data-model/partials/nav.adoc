@@ -1,2 +1,2 @@
 *** Фабрика даних
-**** xref:component:data-model:test.adoc[Побудова аналітичних даних]
+**** xref:component-b:data-model:test.adoc[Побудова аналітичних даних]
