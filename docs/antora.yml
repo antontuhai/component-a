@@ -1,5 +1,4 @@
-name: component-c
-title: Компонент-C
-version: 1.3-SNAPSHOT
-display_version: "1.3-SNAPSHOT"
+name: component-a
+title: Компонент-A
+version: "1.3-SNAPSHOT"
 start_page: data-model:test.adoc
