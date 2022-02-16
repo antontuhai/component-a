@@ -1,5 +1,5 @@
-name: platform
+name: platform-1
 title: Платформа
-version: "1.4"
+version: "1.3"
 nav:
   - modules/ROOT/nav.adoc
