@@ -1,3 +1,3 @@
 **** Фабрика даних
-***** xref:component-a:data-model:test.adoc[Побудова аналітичних даних]
-***** xref:component-a:data-model:test-1.adoc[Створення інформаційних панелей]
+***** xref:data-model:test.adoc[Побудова аналітичних даних]
+***** xref:data-model:test-1.adoc[Створення інформаційних панелей]
