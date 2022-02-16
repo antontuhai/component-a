@@ -1,5 +1,5 @@
 name: platform-1
-title: Платформа-1
+title: Компонент-1
 version: "1.3"
 nav:
   - modules/data-model/partials/nav.adoc
